@@ -1,0 +1,371 @@
+.first{
+    height: 50px;
+    width: 100%;
+    background-color: green;
+}
+.first1{
+    height: 50px;
+    width: 50%;
+    background-color: rgb(66, 4, 97);
+}
+.first2{
+    height: 50px;
+    width: 50%;
+    background-color: rgb(203, 46, 172);
+}
+.one{
+    display: flex;
+}
+.two{
+    display: flex;   
+}
+.two1{
+    height: 50px;
+    width: 33%;
+    background-color: rgb(94, 85, 115);
+}
+.two2 {
+    height: 50px;
+    width: 33%;
+    background-color: rgba(146, 75, 20, 0.993);
+}
+.two3{
+    height: 50px;
+    width: 33%;
+    background-color: rgba(255, 255, 255, 0.993);
+
+}
+.three{
+    display: flex;
+}
+.three1{
+    height: 50px;
+    width: 33%;
+    background-color: rgba(152, 178, 72, 0.993);
+}
+.three2{
+    height: 50px;
+    width: 33%;
+    background-color: rgba(81, 106, 6, 0.993);   
+}
+.three3{
+    height: 50px;
+    width: 33%;
+    background-color: rgba(21, 141, 41, 0.993);
+}
+.three4{
+    height: 50px;
+    width: 33%;
+    background-color: rgba(0, 0, 0, 0.993);
+}
+.four{
+    display: flex;
+}
+.four1{
+    height: 50px;
+    width: 33%;
+    background-color: rgba(121, 21, 21, 0.993);   
+}
+.four2{
+    height: 50px;
+    width: 33%;
+    background-color: rgba(102, 47, 47, 0.993);
+}
+.four3{
+    height: 50px;
+    width: 33%;
+    background-color: rgba(36, 202, 111, 0.993);
+}
+.four4{
+    height: 50px;
+    width: 33%;
+    background-color: rgba(47, 0, 0, 0.993);
+}
+.four5{
+    height: 50px;
+    width: 33%;
+    background-color: rgba(174, 28, 28, 0.993);
+}
+.five{
+    display: flex;
+}
+.five1{
+    height: 50px;
+    width: 33%;
+    background-color: rgba(6, 230, 118, 0.993);
+}
+.five2{
+    height: 50px;
+    width: 33%;
+    background-color: rgba(9, 198, 24, 0.993);
+}
+.five3{
+    height: 50px;
+    width: 33%;
+    background-color: rgba(148, 103, 245, 0.993);
+}
+.five4{
+    height: 50px;
+    width: 33%;
+    background-color: rgba(219, 103, 245, 0.993);
+}
+.five5{
+    height: 50px;
+    width: 33%;
+    background-color: rgba(245, 103, 103, 0.993);
+}
+.five6{
+    height: 50px;
+    width: 33%;
+    background-color: rgba(107, 26, 154, 0.993);
+}
+.six{
+    display: flex;
+}
+.six1{
+    height: 50px;
+    width: 33%;
+    background-color: rgba(182, 140, 207, 0.993);
+}
+.six2{
+    height: 50px;
+    width: 33%;
+    background-color: rgba(137, 211, 245, 0.993);
+}
+.six3{
+    height: 50px;
+    width: 33%;
+    background-color: rgba(88, 109, 214, 0.993);
+}
+.six4{
+    height: 50px;
+    width: 33%;
+    background-color: rgba(12, 36, 173, 0.993);
+}
+.six5{
+    height: 50px;
+    width: 33%;
+    background-color: rgba(22, 3, 49, 0.993);
+}
+.six6{
+    height: 50px;
+    width: 33%;
+    background-color: rgba(154, 12, 42, 0.993);
+}
+.six7{
+    height: 50px;
+    width: 33%;
+    background-color: rgba(232, 0, 193, 0.993);
+}
+.seven{
+    display: flex;
+}
+.seven1{
+    height: 50px;
+    width: 33%;
+    background-color: rgba(59, 5, 91, 0.993);
+}
+.seven2{
+    height: 50px;
+    width: 33%;
+    background-color: rgba(164, 87, 209, 0.993);
+}
+.seven3{
+    height: 50px;
+    width: 33%;
+    background-color: rgba(188, 42, 49, 0.993);
+}
+.seven4{
+    height: 50px;
+    width: 33%;
+    background-color: rgba(209, 177, 227, 0.993);
+}
+.seven5{
+    height: 50px;
+    width: 33%;
+    background-color: rgba(113, 215, 215, 0.993);
+}
+.seven6{
+    height: 50px;
+    width: 33%;
+    background-color: rgba(172, 234, 50, 0.993);
+}
+.seven7{
+    height: 50px;
+    width: 33%;
+    background-color: rgba(12, 7, 69, 0.993);
+}
+.seven8{
+    height: 50px;
+    width: 33%;
+    background-color: rgba(5, 70, 91, 0.993);
+}
+.eight{
+    display: flex;
+}
+.eight1{
+    height: 50px;
+    width: 33%;
+    background-color: rgba(5, 91, 6, 0.993);
+}
+.eight2{
+    height: 50px;
+    width: 33%;
+    background-color: rgba(121, 225, 168, 0.993);
+}
+.eight3{
+    height: 50px;
+    width: 33%;
+    background-color: rgba(154, 55, 124, 0.993);
+}
+.eight4{
+    height: 50px;
+    width: 33%;
+    background-color: rgba(32, 24, 37, 0.993);
+}
+.eight5{
+    height: 50px;
+    width: 33%;
+    background-color: rgba(19, 90, 76, 0.993);
+}
+.eight6{
+    height: 50px;
+    width: 33%;
+    background-color: rgba(86, 76, 91, 0.993);
+}
+.eight7{
+    height: 50px;
+    width: 33%;
+    background-color: rgba(0, 98, 255, 0.993);
+}
+.eight8{
+    height: 50px;
+    width: 33%;
+    background-color: rgba(217, 188, 57, 0.993);
+}
+.eight9{
+    height: 50px;
+    width: 33%;
+    background-color: rgba(151, 108, 0, 0.993);
+}
+.nine{
+    display: flex;
+}
+.nine1{
+    height: 50px;
+    width: 33%;
+    background-color: rgba(51, 34, 61, 0.993);
+}
+.nine2{
+    height: 50px;
+    width: 33%;
+    background-color: rgba(22, 38, 55, 0.993);
+}
+.nine3{
+    height: 50px;
+    width: 33%;
+    background-color: rgba(39, 167, 22, 0.993);
+}
+.nine4{
+    height: 50px;
+    width: 33%;
+    background-color: #f76df59f;
+}
+.nine5{
+    height: 50px;
+    width: 33%;
+    background-color: rgba(34, 159, 93, 0.993);
+}
+.nine6{
+    height: 50px;
+    width: 33%;
+    background-color: rgba(219, 32, 132, 0.993);
+}
+.nine7{
+    height: 50px;
+    width: 33%;
+    background-color: rgba(17, 8, 22, 0.993);
+}
+.nine8{
+    height: 50px;
+    width: 33%;
+    background-color: rgba(162, 0, 255, 0.993);
+}
+.nine9{
+    height: 50px;
+    width: 33%;
+    background-color: rgba(101, 180, 120, 0.993);
+}
+.nine10{
+    height: 50px;
+    width: 33%;
+    background-color: rgba(173, 153, 185, 0.993);
+}
+.ten{
+    display: flex;
+}
+.ten1{
+    height: 50px;
+    width: 33%;
+    background-color: rgba(51, 16, 117, 0.993);
+}
+.ten2{
+    height: 50px;
+    width: 33%;
+    background-color: rgba(255, 242, 0, 0.993);
+}
+.ten3{
+    height: 50px;
+    width: 33%;
+    background-color: rgba(181, 90, 20, 0.747);
+}
+.ten4{
+    height: 50px;
+    width: 33%;
+    background-color: rgba(70, 96, 239, 0.993);
+}
+
+.ten5{
+    height: 50px;
+    width: 33%;
+    background-color: rgba(95, 41, 5, 0.993);
+}
+
+.ten6{
+    height: 50px;
+    width: 33%;
+    background-color: rgba(67, 192, 44, 0.993);
+}
+
+.ten7{
+    height: 50px;
+    width: 33%;
+    background-color: rgba(255, 0, 132, 0.993);
+}
+
+.ten8{
+    height: 50px;
+    width: 33%;
+    background-color: rgba(152, 71, 142, 0.993);
+}
+
+.ten9{
+    height: 50px;
+    width: 33%;
+    background-color: rgba(90, 82, 21, 0.993);
+}
+
+.ten10{
+    height: 50px;
+    width: 33%;
+    background-color: rgba(43, 148, 117, 0.993);
+}
+
+.ten11{
+    height: 50px;
+    width: 33%;
+    background-color: rgba(153, 119, 173, 0.993);
+}
+
+
+
